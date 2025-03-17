@@ -32,6 +32,11 @@ orflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https:/
 <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY5ERxN2hXMCBhd2VbGCnjTgQwidMRruJ3_w&s" alt="unity" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu31DVufssVnIjtFFPMA_cB5JHRKIJXHV29w&s" alt="unity" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5zjvoUjSaZSR3qMe3vC1QPl1AzZSfYMRp6Q&s" alt="unity" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="unity" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq25B8BSZZOXomcnIxfJOMbxRqSPxgT53hXw&s" alt="unity" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="unity" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="unity" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer"> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png?20210729021549" alt="unity" width="40" height="40"/> </a>
 
  </p>
 
